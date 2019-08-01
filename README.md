@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-master change
+master change resolve
